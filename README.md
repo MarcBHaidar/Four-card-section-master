@@ -13,7 +13,9 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
  
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/MarcBHaidar/Four-card-section-master/blob/main/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/Four-card-section-master/blob/main/images/mobile-screenshot.jpg)
+
 
 
 ### Links
